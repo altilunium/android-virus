@@ -1,0 +1,93 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_37 (Sun Microsystems Inc.)
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: JXImCSy37NGjNN/PhoLCywjZZIU=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: YXgfepaazMNsoZ37OKGoetkmKeo=
+
+Name: res/drawable-anydpi-v24/ic_launcher_foreground.xml
+SHA1-Digest: cRZ4whra1CNRuuZNjx3SGbx7nQw=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: u3pBvwGSja6J8TkQ+3V9B3qSmvc=
+
+Name: resources.arsc
+SHA1-Digest: Iwv2Mq/WwMmdW6XBbe4qzJjY2rk=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: AdusAVsNFaEyW04Rhi1woKT7e2o=
+
+Name: res/drawable-mdpi-v4/ic_launcher_background.png
+SHA1-Digest: bed65Fa+TzKUFVZbs6CBgoBaLqY=
+
+Name: res/drawable-anydpi-v21/ic_launcher_background.xml
+SHA1-Digest: vC+oIV4jqVp9VJ+fL6FbpAyLLME=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rNa6Jej5Z1gEr4X5qF70S6GU/WE=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: CgmiCE5mWawqJo04Fbe6/Tia5QI=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: /AIk7fXCuJJacAkth/n0y2uGDLA=
+
+Name: res/drawable-ldpi-v4/ic_launcher_background.png
+SHA1-Digest: 7NV2gyicWqVhB+2X83jSGsHTJEE=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: 8fJCg7KZL7GH/0RJUq4NRfhibxg=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: XxxxMiGehaRuVFr2hSLLsenGp6I=
+
+Name: res/drawable-anydpi-v24/$ic_launcher_foreground__0.xml
+SHA1-Digest: 5rlWEBXOVPslbwV1UotSJGNPvTc=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA1-Digest: UqhjYoDOm5r1aN2i8YE++NX9DVQ=
+
+Name: res/xml/network_security_config.xml
+SHA1-Digest: hFH5zMeXTgzzwQtIhQzHYXVXnx0=
+
+Name: lib/arm64-v8a/libumeng-spy.so
+SHA1-Digest: y1KzCOpXtry+0BRdE4vKJESuDWg=
+
+Name: classes.dex
+SHA1-Digest: PWQQn97O3x4we2Z3WgI5MyJ1uIs=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 6YhtWAsUiy7rgFf39pW8NTlaACw=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: PSN0YdxgFXgW0evJwsV74M/8Uk0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: vqAibGk9PjCm4KkxnGmsMOidtYc=
+
+Name: lib/x86/libumeng-spy.so
+SHA1-Digest: wjJQq1umirHEz3fkFvpci94gUyw=
+
+Name: lib/armeabi/libumeng-spy.so
+SHA1-Digest: YTUcJ0i5RaVwC5JRvaS92MElsYA=
+
+Name: res/drawable-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: t0VeFU0k8eEYH+JcKETx+vswyRM=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: MXMlxgtM4X000ue8PK86M3lnzn8=
+
+Name: lib/armeabi-v7a/libumeng-spy.so
+SHA1-Digest: 2fhEqCWW+f/BK9ipQH2LuQOrovk=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: UqhjYoDOm5r1aN2i8YE++NX9DVQ=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: kL4LQqtzwgDfe4wbT3opjdSvBVg=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: YoFiDUpC6LNJ4szThTY9b2M3fJY=
+
